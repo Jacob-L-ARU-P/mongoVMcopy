@@ -1,0 +1,881 @@
+Area,Area_Code,year_2017,year_2018,year_2019,year_2020,year_2021
+country:United Kingdom,K02000001,2.3,3.8,3.2,-0.9,3.7
+country:Great Britain,K03000001,2.3,3.8,3.2,-0.9,3.7
+country:England,E92000001,2.3,3.9,3.2,-1.1,3.7
+country:Wales,W92000004,3.1,3.8,2.5,1,4.9
+country:Scotland,S92000003,1.9,2.9,3.6,-0.6,2.4
+country:Northern Ireland,N92000002,3.2,2.6,3.8,-0.5,4
+country:England and Wales,K04000001,2.3,3.9,3.2,-1,3.8
+gor:North East,E12000001,2.1,2.6,3.2,0.4,4.3
+gor:North West,E12000002,2.8,3.4,3.5,0.3,2.4
+gor:Yorkshire and The Humber,E12000003,2.9,3.7,3.1,0,3.9
+gor:East Midlands,E12000004,2.8,3.2,3.5,0.3,3.1
+gor:West Midlands,E12000005,1.3,3.3,2.8,-0.2,3.6
+gor:East,E12000006,2.9,3.9,3.1,-1.6,2.9
+gor:London,E12000007,1.6,5.2,2.7,-2,6.5
+gor:South East,E12000008,2.5,3.6,3.3,-1.7,3
+gor:South West,E12000009,2.3,3.9,4.1,-1.6,3.1
+gor:Wales,W92000004,3.1,3.8,2.5,1,4.9
+gor:Scotland,S92000003,1.9,2.9,3.6,-0.6,2.4
+gor:Northern Ireland,N92000002,3.2,2.6,3.8,-0.5,4
+ladu:Darlington,E06000005,4.6,1.8,2.9,3.5,2.1
+ladu:County Durham,E06000047,2,2.7,2.8,0.1,5.3
+ladu:Hartlepool,E06000001,1.8,4.7,0.3,1.5,4.8
+ladu:Middlesbrough,E06000002,1.7,3.9,3,1.4,1.4
+ladu:Northumberland,E06000057,2.1,2.2,2.8,-0.7,4.1
+ladu:Redcar and Cleveland,E06000003,1.9,3.1,2.4,0.3,3.5
+ladu:Stockton-on-Tees,E06000004,2.2,1.4,5.1,0.9,3.2
+ladu:Gateshead,E08000037,2.1,4.5,3.7,-0.1,4.7
+ladu:Newcastle upon Tyne,E08000021,0.9,2.8,4.6,-1.7,7
+ladu:North Tyneside,E08000022,2.6,3.3,4.1,3.3,1.8
+ladu:South Tyneside,E08000023,2,0.8,1.5,1.5,4.9
+ladu:Sunderland,E08000024,2.5,1.3,2.8,-0.1,4.5
+ladu:Blackburn with Darwen,E06000008,4.8,4.7,5.1,3.7,0.5
+ladu:Blackpool,E06000009,3.5,2.2,3.7,0.9,0
+ladu:Cheshire East,E06000049,3.7,5.4,3.7,-1.3,0.7
+ladu:Cheshire West and Chester,E06000050,4.1,3.6,3,-1.1,-0.8
+ladu:Halton,E06000006,3.6,4.4,1.6,1.5,2.6
+ladu:Warrington,E06000007,2.6,4.6,3.9,-0.3,1.5
+ladu:Allerdale,E07000026,1.9,2.7,1.7,-0.9,4.1
+ladu:Barrow-in-Furness,E07000027,1.9,2.6,4.2,2.8,2.4
+ladu:Carlisle,E07000028,2,3.2,2,2.3,0
+ladu:Copeland,E07000029,2.4,-0.3,4.2,2,3.4
+ladu:Eden,E07000030,2,3.8,2.7,-2,0.7
+ladu:South Lakeland,E07000031,2.5,1.9,4.1,-4.6,4.3
+ladu:Bolton,E08000001,3.8,2.6,2.9,0.2,0.8
+ladu:Bury,E08000002,1.7,3.6,2.9,0.9,1.8
+ladu:Manchester,E08000003,5.8,4.8,3.5,2.2,5.4
+ladu:Oldham,E08000004,1.3,5.5,4.2,0.4,0.5
+ladu:Rochdale,E08000005,1.7,2,4.8,0.9,2.6
+ladu:Salford,E08000006,1.6,-0.9,4.6,0.8,1.7
+ladu:Stockport,E08000007,2,4.5,3.9,-0.7,2.9
+ladu:Tameside,E08000008,3.1,2.9,3.4,0.5,0.1
+ladu:Trafford,E08000009,1.9,7.7,3.3,-1.3,4.1
+ladu:Wigan,E08000010,4.3,3,3.4,0.9,2.5
+ladu:Burnley,E07000117,2.2,3.8,4.1,1.7,-3.5
+ladu:Chorley,E07000118,2.2,1.6,5.1,1.1,3.5
+ladu:Fylde,E07000119,2.1,4,2.5,-2.7,2.9
+ladu:Hyndburn,E07000120,2.7,2.1,5.4,0,0.1
+ladu:Lancaster,E07000121,3.6,2.6,-0.3,1.5,7.3
+ladu:Pendle,E07000122,1.8,-0.9,3.4,0.1,-0.7
+ladu:Preston,E07000123,2.7,0.5,5,3.9,1.4
+ladu:Ribble Valley,E07000124,2.1,4.1,1.5,-6.6,4.9
+ladu:Rossendale,E07000125,1.4,2.6,0.3,0.9,3.7
+ladu:South Ribble,E07000126,2.2,3.9,4.4,1.8,2.2
+ladu:West Lancashire,E07000127,1.8,4.8,4.5,-0.2,1.8
+ladu:Wyre,E07000128,4.3,2.6,6.6,-1.3,4.3
+ladu:Knowsley,E08000011,3.4,1.6,6.4,1.4,1.2
+ladu:Liverpool,E08000012,1.8,2.5,2.3,1.8,6.9
+ladu:Sefton,E08000014,2.3,1.9,2.2,1.4,0.9
+ladu:St. Helens,E08000013,2.9,3.6,6,-0.1,1.1
+ladu:Wirral,E08000015,1.2,3.5,3.6,-1,4.3
+ladu:East Riding of Yorkshire,E06000011,3.3,4.6,2.9,-0.5,3.5
+"ladu:Kingston upon Hull, City of",E06000010,3.3,4.1,3.1,2.5,-0.6
+ladu:North East Lincolnshire,E06000012,3.7,2.2,4,1.7,3.9
+ladu:North Lincolnshire,E06000013,3.8,4.5,2.8,-0.2,4.4
+ladu:York,E06000014,2.8,4.8,3.2,-1.5,7.2
+ladu:Craven,E07000163,3.3,1.8,3.6,1.4,2.8
+ladu:Hambleton,E07000164,3.2,5.2,2.3,-0.1,4.8
+ladu:Harrogate,E07000165,3.1,5.5,3.5,-5.7,3.4
+ladu:Richmondshire,E07000166,3.7,7.8,-0.1,-2,11.7
+ladu:Ryedale,E07000167,2.5,0.2,3.3,-1.3,4
+ladu:Scarborough,E07000168,3.2,3.3,2,1.3,2.7
+ladu:Selby,E07000169,2.6,5.2,5.4,-0.8,2.7
+ladu:Barnsley,E08000016,3.4,3.8,5.1,1.6,3.9
+ladu:Doncaster,E08000017,3.1,3.3,0.4,1.1,4
+ladu:Rotherham,E08000018,3.5,1.4,3.4,0.5,2.7
+ladu:Sheffield,E08000019,1.8,3.9,2.3,-0.6,9.3
+ladu:Bradford,E08000032,2,2.1,3.4,1,1.6
+ladu:Calderdale,E08000033,2.1,2.4,2.8,-1.1,4.2
+ladu:Kirklees,E08000034,2.4,4.5,4,-0.3,4.8
+ladu:Leeds,E08000035,2.9,4.5,4,0,2.1
+ladu:Wakefield,E08000036,3.8,2.5,2.2,1.6,3.6
+ladu:Derby,E06000015,4.1,4,4,0.3,0.3
+ladu:Leicester,E06000016,2.6,2.1,3.8,4.3,0.7
+ladu:Nottingham,E06000018,0.8,2.5,4.2,1,8.8
+ladu:Rutland,E06000017,3.1,7.3,6,-4.2,1.1
+ladu:Amber Valley,E07000032,1.3,2.6,3.3,1.4,5.6
+ladu:Bolsover,E07000033,3.3,2.5,3.8,5,4.3
+ladu:Chesterfield,E07000034,4.7,3.3,7.2,2.6,3.6
+ladu:Derbyshire Dales,E07000035,1.2,4.5,1.2,-6.9,6.1
+ladu:Erewash,E07000036,1.4,4.4,3.1,1.1,4.6
+ladu:High Peak,E07000037,1.9,0,2.3,0.9,5.3
+ladu:North East Derbyshire,E07000038,3.1,5.8,1.9,0.6,4
+ladu:South Derbyshire,E07000039,1,3.3,3.7,-0.6,5.6
+ladu:Blaby,E07000129,5,3.1,4.8,1.8,1.4
+ladu:Charnwood,E07000130,3.9,1.9,6.3,-3.2,6.8
+ladu:Harborough,E07000131,3,0.4,3.1,-3.5,1.9
+ladu:Hinckley and Bosworth,E07000132,4.5,3.9,0.8,1.5,2.9
+ladu:Melton,E07000133,4.7,4.7,1.5,0.2,3.1
+ladu:North West Leicestershire,E07000134,4.3,0.8,4.5,3.5,3.1
+ladu:Oadby and Wigston,E07000135,3.5,3.4,5.8,0.9,3.1
+ladu:Boston,E07000136,2.1,0.6,5.2,-3,3.3
+ladu:East Lindsey,E07000137,2.7,4.3,3.4,-1.3,3.8
+ladu:Lincoln,E07000138,2.4,3.9,3.5,1.5,-1.2
+ladu:North Kesteven,E07000139,2.5,3,2.5,0.3,2.3
+ladu:South Holland,E07000140,2.6,1.5,0.5,0.2,4.8
+ladu:South Kesteven,E07000141,3.1,6.5,5.1,-0.8,3.1
+ladu:West Lindsey,E07000142,3.5,0.9,3.6,2,4.7
+ladu:Ashfield,E07000170,2.6,3.9,3.3,0.9,4.2
+ladu:Bassetlaw,E07000171,2.3,3.7,4,-0.1,3.3
+ladu:Broxtowe,E07000172,1.3,1.6,2.4,2.3,6.6
+ladu:Gedling,E07000173,2.2,1.3,4.7,-0.5,3.9
+ladu:Mansfield,E07000174,3.3,3.9,2.8,3.4,1.1
+ladu:Newark and Sherwood,E07000175,1.9,5.2,3.4,-2.7,4.3
+ladu:Rushcliffe,E07000176,1.9,3.2,2.1,-1.7,5.5
+ladu:North Northamptonshire,E06000061,2.4,1.9,2.9,1,0.5
+ladu:West Northamptonshire,E06000062,3.8,4.6,2.6,-0.7,-1.8
+"ladu:Herefordshire, County of",E06000019,0.3,3.7,4.1,-0.1,6.7
+ladu:Shropshire,E06000051,2,4,2.6,-1.5,4.1
+ladu:Stoke-on-Trent,E06000021,2.1,4.9,2.4,0,1.6
+ladu:Telford and Wrekin,E06000020,0.3,2.9,2.9,1.1,2.1
+ladu:Cannock Chase,E07000192,2.5,3.3,2.3,2.6,3.7
+ladu:East Staffordshire,E07000193,2.6,7.4,0.7,-1.7,0.5
+ladu:Lichfield,E07000194,2,6.3,0,-2.1,3.4
+ladu:Newcastle-under-Lyme,E07000195,1.6,3.1,3.7,0.2,10
+ladu:South Staffordshire,E07000196,2.2,0.9,6.3,-2.1,6.2
+ladu:Stafford,E07000197,2,3,4.8,-2,3.9
+ladu:Staffordshire Moorlands,E07000198,2.3,2.6,1,1.3,6.8
+ladu:Tamworth,E07000199,3.3,5,5.2,0.5,-0.8
+ladu:North Warwickshire,E07000218,0.7,-0.9,3.2,-0.2,3.5
+ladu:Nuneaton and Bedworth,E07000219,1.5,2.3,3.7,1.5,0
+ladu:Rugby,E07000220,0.8,-0.1,3.2,-1.5,-0.1
+ladu:Stratford-on-Avon,E07000221,-1.5,-0.5,1.7,-5.8,2.5
+ladu:Warwick,E07000222,0.1,5.6,-0.3,-1.3,0.7
+ladu:Birmingham,E08000025,1.1,3.1,3.6,1.7,3.2
+ladu:Coventry,E08000026,1.2,2.3,1.4,-0.7,13.8
+ladu:Dudley,E08000027,0.3,2.8,2.7,0.6,2.3
+ladu:Sandwell,E08000028,1.3,2.8,3.5,1.4,-0.5
+ladu:Solihull,E08000029,1.6,3.6,2.5,-3.6,3.2
+ladu:Walsall,E08000030,2.9,3.5,1.5,0.5,4.2
+ladu:Wolverhampton,E08000031,1.7,3.1,3,1.6,2.9
+ladu:Bromsgrove,E07000234,0.9,1.8,-0.2,-1.3,4.2
+ladu:Malvern Hills,E07000235,1.2,4.3,5.5,-3,4.1
+ladu:Redditch,E07000236,3.4,5.4,3.4,1.6,-2
+ladu:Worcester,E07000237,2.6,3.7,4.6,0.9,-0.6
+ladu:Wychavon,E07000238,0.7,6.5,1.3,-1.3,3.2
+ladu:Wyre Forest,E07000239,1.7,4.2,3.9,0.3,3.7
+ladu:Bedford,E06000055,3.6,4,2.8,-1,-1.8
+ladu:Central Bedfordshire,E06000056,2.5,3.1,2.6,-2.5,4.3
+ladu:Luton,E06000032,6,2,3.7,2.7,-2.2
+ladu:Peterborough,E06000031,2,2.4,3.9,0.9,-2.6
+ladu:Southend-on-Sea,E06000033,3,3.8,3.3,-0.6,5.3
+ladu:Thurrock,E06000034,3.1,4.9,3.2,-0.1,3.8
+ladu:Cambridge,E07000008,2.4,3.4,8.3,-3.8,-10.7
+ladu:East Cambridgeshire,E07000009,1.9,4.3,2.8,-2,7.6
+ladu:Fenland,E07000010,1.6,0.9,4.6,1.3,3.5
+ladu:Huntingdonshire,E07000011,2.7,4.8,4.1,-1.3,1.8
+ladu:South Cambridgeshire,E07000012,2,4.2,1.4,-3.1,4
+ladu:Basildon,E07000066,2.5,4.8,3.9,-0.9,2.8
+ladu:Braintree,E07000067,2.5,5.8,3.8,-1.4,2.4
+ladu:Brentwood,E07000068,3.1,5.5,0.4,-3.2,5.3
+ladu:Castle Point,E07000069,3.5,5.8,2.4,-2.1,4
+ladu:Chelmsford,E07000070,2.8,4.5,5.7,-2,2.6
+ladu:Colchester,E07000071,2.5,3.1,3.3,-2.3,7.4
+ladu:Epping Forest,E07000072,5.3,6.1,1.4,-3.4,4.2
+ladu:Harlow,E07000073,5.2,3.8,7.8,2.1,-3.9
+ladu:Maldon,E07000074,3.5,1.9,-1.2,1.7,3.1
+ladu:Rochford,E07000075,3,4,2.3,-2.4,5.5
+ladu:Tendring,E07000076,3.1,2.8,2.4,0.1,3.8
+ladu:Uttlesford,E07000077,4.2,6.8,1.9,-4.3,4.9
+ladu:Broxbourne,E07000095,3.9,2.6,3.9,-3.5,1.5
+ladu:Dacorum,E07000096,3.7,4.2,-0.7,-1.1,4.6
+ladu:East Hertfordshire,E07000242,2.9,5,2.3,-3.1,4.5
+ladu:Hertsmere,E07000098,2.2,4.8,1,-2.5,3.7
+ladu:North Hertfordshire,E07000099,2.5,3.9,0.6,-1.8,4.1
+ladu:St Albans,E07000240,3.2,5.8,3.1,-5.5,5.7
+ladu:Stevenage,E07000243,3.7,3,4.7,0.3,1.5
+ladu:Three Rivers,E07000102,2.5,0.4,4.7,-5.1,5
+ladu:Watford,E07000103,3.9,2.9,2.8,-0.4,-2.5
+ladu:Welwyn Hatfield,E07000241,1.7,1.4,4.9,-3.8,7.9
+ladu:Breckland,E07000143,3.7,4,3.2,1,3.9
+ladu:Broadland,E07000144,1.7,2.2,2,-1.7,4.7
+ladu:Great Yarmouth,E07000145,1.9,6.2,2.1,4.4,2.4
+ladu:King's Lynn and West Norfolk,E07000146,4.3,3.5,5.5,1.6,0.5
+ladu:North Norfolk,E07000147,3.4,5.6,4.8,-6.3,5.5
+ladu:Norwich,E07000148,1,2.5,7.5,-2.1,2
+ladu:South Norfolk,E07000149,2.4,1.9,4,-1.9,5.4
+ladu:Babergh,E07000200,2.4,4,2.1,-2.2,4.6
+ladu:Ipswich,E07000202,2.6,1.7,4.5,6.3,-2.2
+ladu:Mid Suffolk,E07000203,2.5,3.8,2.7,-3.1,6
+ladu:East Suffolk,E07000244,1.9,4,-1.1,-1.2,5.6
+ladu:West Suffolk,E07000245,1,4.9,6.3,-3,2.6
+ladu:Camden,E09000007,2.1,5.6,2,-7,41.6
+ladu:City of London,E09000001,-0.9,-3.6,-11.4,-21.8,31.9
+ladu:Hackney,E09000012,1.2,5,4.5,0.8,13.4
+ladu:Hammersmith and Fulham,E09000013,1.7,2.6,1.3,-2,6
+ladu:Haringey,E09000014,4.3,4.8,4.5,-1.4,5.9
+ladu:Islington,E09000019,0.2,4.8,3.8,-4.7,18.3
+ladu:Kensington and Chelsea,E09000020,3.3,5.6,-1,-6.3,16.4
+ladu:Lambeth,E09000022,0.6,6.5,3.9,-0.3,4.4
+ladu:Lewisham,E09000023,3.6,4.6,5,0.7,6.4
+ladu:Newham,E09000025,4.7,6.4,5.4,1.2,6.2
+ladu:Southwark,E09000028,2.5,7,2.4,0,9.6
+ladu:Tower Hamlets,E09000030,1.1,3.7,3,-2.6,12.5
+ladu:Wandsworth,E09000032,1.2,5.2,2.9,-2.8,5.3
+ladu:Westminster,E09000033,0,0.8,-1,-8.7,37.3
+ladu:Barking and Dagenham,E09000002,2,6.1,4,3.5,-0.4
+ladu:Barnet,E09000003,1,5.2,1.8,-2.2,6.7
+ladu:Bexley,E09000004,1.1,3.9,3.6,-1,3.6
+ladu:Brent,E09000005,1.3,6.1,2.8,-1.2,-0.4
+ladu:Bromley,E09000006,0.3,5.5,2.5,-2,4.1
+ladu:Croydon,E09000008,1.9,6.4,3.5,0.2,1.9
+ladu:Ealing,E09000009,0.6,3.7,2.5,1.3,-4.9
+ladu:Enfield,E09000010,0.7,4.4,4.3,0.2,4.6
+ladu:Greenwich,E09000011,1.4,4.4,4.7,0.3,2.6
+ladu:Harrow,E09000015,2,4.9,0.8,-2.9,1.3
+ladu:Havering,E09000016,2.2,5,2,-1.2,2.7
+ladu:Hillingdon,E09000017,0.7,3.9,3.4,-1.2,4
+ladu:Hounslow,E09000018,1.2,5.6,4.6,-0.5,-3.3
+ladu:Kingston upon Thames,E09000021,-0.2,8,0.6,-1.1,9.4
+ladu:Merton,E09000024,0.6,5.6,4.9,-2.3,0.2
+ladu:Redbridge,E09000026,4.1,6.6,1.9,-0.6,3.1
+ladu:Richmond upon Thames,E09000027,0.8,7.5,2.8,-4.4,5.4
+ladu:Sutton,E09000029,0.1,5.9,2.7,-2.9,2.7
+ladu:Waltham Forest,E09000031,3.8,5.9,4.1,0.1,2
+ladu:Bracknell Forest,E06000036,2.3,1.9,4.7,0.9,2.4
+ladu:Brighton and Hove,E06000043,3.4,3.7,2.8,-2.4,9.4
+ladu:Isle of Wight,E06000046,2.4,4.3,4,-0.1,4.1
+ladu:Medway,E06000035,2.3,3.2,3.6,1,3.1
+ladu:Milton Keynes,E06000042,3.9,4.5,2.1,0.9,-3.1
+ladu:Portsmouth,E06000044,2.8,3.5,4.2,1.9,6.1
+ladu:Reading,E06000038,3.6,2.5,8.6,-0.4,-5.5
+ladu:Slough,E06000039,4,4,5.1,1.1,-3.2
+ladu:Southampton,E06000045,3.9,3.7,3.5,-0.3,3.8
+ladu:West Berkshire,E06000037,2.7,2.4,5.9,-2.5,1.4
+ladu:Windsor and Maidenhead,E06000040,2.4,1.8,5.5,-2,1.6
+ladu:Wokingham,E06000041,1.2,6.5,0.3,-2.6,1.7
+ladu:Buckinghamshire,E06000060,2.2,2.8,3.1,-3.4,3.3
+ladu:Eastbourne,E07000061,1.4,0.6,1.1,1.6,4.9
+ladu:Hastings,E07000062,1.9,5.5,3.2,1.9,5.4
+ladu:Lewes,E07000063,1.6,2.2,5.5,-4.9,7.6
+ladu:Rother,E07000064,1.2,3,-0.6,0.2,8.4
+ladu:Wealden,E07000065,1.5,1.2,3.1,-3.1,6.5
+ladu:Basingstoke and Deane,E07000084,3.9,4,1.7,-2.3,-0.6
+ladu:East Hampshire,E07000085,2.1,2.5,2.6,-4.2,1.9
+ladu:Eastleigh,E07000086,0.9,4.1,2.5,-2.5,1.5
+ladu:Fareham,E07000087,1.5,3.2,5.5,-4.1,3.6
+ladu:Gosport,E07000088,2.1,2.9,4.1,0.5,4.3
+ladu:Hart,E07000089,2.2,3.7,3.1,-1.8,1
+ladu:Havant,E07000090,0.8,1.7,1.9,0.6,3.6
+ladu:New Forest,E07000091,3,2.3,3.9,-2,5.3
+ladu:Rushmoor,E07000092,4.3,3.9,5.5,0.8,-3.8
+ladu:Test Valley,E07000093,1.8,5.3,1.6,-1.7,1.1
+ladu:Winchester,E07000094,3.2,6.1,4.7,-3.5,3.3
+ladu:Ashford,E07000105,1.5,1.6,3,1.1,2.9
+ladu:Canterbury,E07000106,1.3,3.1,3.4,0.1,11.2
+ladu:Dartford,E07000107,1.8,3.3,1.1,-0.2,2.2
+ladu:Dover,E07000108,1.5,3.2,3,-0.8,5.2
+ladu:Gravesham,E07000109,4.1,2.3,6.3,0,3.5
+ladu:Maidstone,E07000110,1.9,4.1,2.8,-1.9,2.4
+ladu:Sevenoaks,E07000111,2,1.5,1.2,-3.2,4.9
+ladu:Folkestone and Hythe,E07000112,2.6,1.2,2,1.1,7.6
+ladu:Swale,E07000113,2.4,4.1,3.2,-1.7,3.6
+ladu:Thanet,E07000114,2.1,3.3,3.3,3.2,4.9
+ladu:Tonbridge and Malling,E07000115,1.7,4.4,2.8,-1.3,3.7
+ladu:Tunbridge Wells,E07000116,2.8,7.7,3.3,-4,7.1
+ladu:Cherwell,E07000177,2.8,4.1,5.5,-1.9,-2.6
+ladu:Oxford,E07000178,5.4,3.4,7.3,-1.6,-3.3
+ladu:South Oxfordshire,E07000179,2.9,2.3,6,-2.6,0.1
+ladu:Vale of White Horse,E07000180,1.8,2.3,3.4,0,2.7
+ladu:West Oxfordshire,E07000181,2.5,6,-0.1,-4.2,1.2
+ladu:Elmbridge,E07000207,2.4,3.8,5.4,-4.9,5.4
+ladu:Epsom and Ewell,E07000208,2.2,2,0.7,-3.1,3.9
+ladu:Guildford,E07000209,2,4.4,2.6,-4.7,10.6
+ladu:Mole Valley,E07000210,2.7,4,2.3,-2,3.2
+ladu:Reigate and Banstead,E07000211,1.8,2.5,4.7,-2.7,3.3
+ladu:Runnymede,E07000212,2.8,5.9,1.4,-1.6,7.7
+ladu:Spelthorne,E07000213,2.9,5.4,2.7,0.4,-0.4
+ladu:Surrey Heath,E07000214,3.4,4.5,4,-3.6,1.4
+ladu:Tandridge,E07000215,1.9,5.7,2.9,-4.7,4.9
+ladu:Waverley,E07000216,1.7,6.3,0.6,-2.2,4.1
+ladu:Woking,E07000217,4,2.8,1.8,-3.1,0
+ladu:Adur,E07000223,3.3,2.6,3.4,-0.1,3.2
+ladu:Arun,E07000224,2.6,3.1,0,-0.4,1.6
+ladu:Chichester,E07000225,2,2.8,3.5,-3.8,1.9
+ladu:Crawley,E07000226,3.4,6.7,3.4,-3.4,-4.3
+ladu:Horsham,E07000227,1.6,4,2,-2.8,2.1
+ladu:Mid Sussex,E07000228,2,2.8,4.5,-2.5,1.3
+ladu:Worthing,E07000229,3.5,5.8,1.8,0.1,2.5
+ladu:Bath and North East Somerset,E06000022,1.1,3.2,4.2,-5.6,6.4
+"ladu:Bristol, City of",E06000023,3.5,3.7,5.9,-1.2,2.9
+ladu:Cornwall,E06000052,3.7,2.1,4.2,0.6,4.9
+ladu:Isles of Scilly,E06000053,9.5,-1.4,6.7,3.6,-3
+ladu:North Somerset,E06000024,1.2,3,4.7,-1.2,2.8
+ladu:Plymouth,E06000026,4,3.1,4.4,-0.2,1.5
+ladu:South Gloucestershire,E06000025,1.3,6.8,0.6,-2.3,2.7
+ladu:Swindon,E06000030,2,3.8,4.5,-0.7,-1.8
+ladu:Torbay,E06000027,2.4,2.8,3.1,1.5,2.6
+ladu:Wiltshire,E06000054,3.1,5.3,4.5,-2.5,1.7
+ladu:East Devon,E07000040,1.9,4.3,4.2,-3.9,2.4
+ladu:Exeter,E07000041,2.8,5.2,3.3,-1.1,6.2
+ladu:Mid Devon,E07000042,2.6,5.3,2.8,0.8,5
+ladu:North Devon,E07000043,2.4,1.1,5.5,-1.6,4.9
+ladu:South Hams,E07000044,2.1,3.5,3.4,-3.7,4.4
+ladu:Teignbridge,E07000045,1.9,4.4,3.5,-0.4,4.2
+ladu:Torridge,E07000046,2.3,4.6,2.1,1.3,4.9
+ladu:West Devon,E07000047,1.5,2.7,1.3,-3.7,2
+"ladu:Bournemouth, Christchurch and Poole",E06000058,2.4,4.3,4.7,-2.5,3.3
+ladu:Dorset,E06000059,1.8,4.2,3.8,-2,3.3
+ladu:Cheltenham,E07000078,1.8,4.8,5,-2,1.6
+ladu:Cotswold,E07000079,-0.5,4.1,4.5,-6.3,4.7
+ladu:Forest of Dean,E07000080,1.3,5.3,3.5,0.7,3.3
+ladu:Gloucester,E07000081,0.9,1.3,5.7,1.4,-0.4
+ladu:Stroud,E07000082,1.2,5.1,2.9,-4.4,4.5
+ladu:Tewkesbury,E07000083,-0.3,1.2,1.3,-0.6,5.4
+ladu:Mendip,E07000187,2.8,5.8,1.1,-1.5,4.4
+ladu:Sedgemoor,E07000188,2.9,6.3,6,-0.8,3
+ladu:South Somerset,E07000189,2.6,0.5,4.7,-2.1,2.2
+ladu:Somerset West and Taunton,E07000246,2.4,4,4.9,-0.4,2.8
+ladu:Isle of Anglesey,W06000001,2.4,2.8,1.3,0.5,5.2
+ladu:Gwynedd,W06000002,2.3,2.2,2.4,0.4,10.6
+ladu:Conwy,W06000003,3.1,4.3,3.1,-0.5,6.4
+ladu:Denbighshire,W06000004,2.8,3.9,-0.8,0.2,3.2
+ladu:Flintshire,W06000005,3,4.9,2,0.5,2.6
+ladu:Wrexham,W06000006,2.9,-0.3,1.1,0.6,2.3
+ladu:Powys,W06000023,5.6,3.9,3.7,0.3,4.1
+ladu:Ceredigion,W06000008,3.7,4.4,3.5,0.3,8
+ladu:Pembrokeshire,W06000009,2.1,3.6,2.1,-0.1,6
+ladu:Carmarthenshire,W06000010,1.5,3.5,2.3,0.4,4.1
+ladu:Swansea,W06000011,3.1,3.6,3.1,2.9,6.6
+ladu:Neath Port Talbot,W06000012,3.6,0,5.1,0.8,3.3
+ladu:Bridgend,W06000013,3.6,6.1,0.4,2.3,2.1
+ladu:Vale of Glamorgan,W06000014,4,6.1,3.1,0.2,6
+ladu:Cardiff,W06000015,4.1,4.4,1.7,2.2,6
+ladu:Rhondda Cynon Taff,W06000016,3.7,4,3.3,1.3,4.5
+ladu:Merthyr Tydfil,W06000024,3.3,3.1,0,1,4.8
+ladu:Caerphilly,W06000018,2.2,2.4,5.3,0.8,6.1
+ladu:Blaenau Gwent,W06000019,2.4,4.4,0.3,3.1,6
+ladu:Torfaen,W06000020,1.9,6.2,2,1.1,4.3
+ladu:Monmouthshire,W06000021,3.4,4.2,6,-2.4,5.1
+ladu:Newport,W06000022,1.7,4.9,0.6,1.6,0.5
+ladu:Aberdeen City,S12000033,0.5,0.9,3.2,-3,1.4
+ladu:Aberdeenshire,S12000034,0.4,4.3,2.6,-2,1.6
+ladu:Angus,S12000041,0.7,2.8,1.6,-2.2,2
+ladu:Argyll and Bute,S12000035,2.5,5.6,6.2,-0.3,2.3
+ladu:Clackmannanshire,S12000005,1.7,1.2,5.6,-2.9,2.1
+ladu:Dumfries and Galloway,S12000006,1.2,1.7,4.5,0.3,4
+ladu:Dundee City,S12000042,1.1,3.1,6.5,0.8,2
+ladu:East Ayrshire,S12000008,1.7,0.6,4.1,-0.2,2.3
+ladu:East Dunbartonshire,S12000045,3.3,3.1,-0.3,-2.2,2.7
+ladu:East Lothian,S12000010,1.9,2.1,6.5,-0.7,2.9
+ladu:East Renfrewshire,S12000011,0.6,2.4,-3.6,-1,3.1
+ladu:City of Edinburgh,S12000036,2.5,3.8,5.8,-2.1,3.4
+ladu:Na h-Eileanan Siar,S12000013,2.8,6.1,5.9,-1.2,1.7
+ladu:Falkirk,S12000014,4.1,4.4,2.7,-1.6,1.3
+ladu:Fife,S12000047,2.4,1.7,2.8,0.5,2.5
+ladu:Glasgow City,S12000049,1.5,1.6,3.9,0.8,3
+ladu:Highland,S12000017,1.9,2.9,4,-1,2.4
+ladu:Inverclyde,S12000018,2.3,3.5,4.9,-1.3,2.2
+ladu:Midlothian,S12000019,-0.4,3.6,0.1,1.7,2.3
+ladu:Moray,S12000020,3.2,4.1,4.6,-0.7,1
+ladu:North Ayrshire,S12000021,1.7,4.7,2.4,0.7,1.6
+ladu:North Lanarkshire,S12000050,1.5,2.4,2.6,0.1,1.8
+ladu:Orkney Islands,S12000023,1.7,2.7,3.6,0.1,3.9
+ladu:Perth and Kinross,S12000048,2.2,3.9,4.1,-0.9,1.8
+ladu:Renfrewshire,S12000038,2.1,3,4.7,0,1.4
+ladu:Scottish Borders,S12000026,1.8,1.2,5.1,0.2,3.4
+ladu:Shetland Islands,S12000027,-0.4,0.6,5.7,-0.8,1.9
+ladu:South Ayrshire,S12000028,0.9,2.1,1.6,-0.3,2.6
+ladu:South Lanarkshire,S12000029,3.1,3.7,3.3,0.9,2.1
+ladu:Stirling,S12000030,1.6,1.7,3.1,-2.1,2.4
+ladu:West Dunbartonshire,S12000039,5.3,5.4,3.7,-0.6,2
+ladu:West Lothian,S12000040,3,3.1,1.8,0.2,1.7
+ladu:Antrim and Newtownabbey,N09000001,3.1,2,4.4,-0.1,2.8
+"ladu:Armagh City, Banbridge and Craigavon",N09000002,2.4,2,3.6,-0.1,4.6
+ladu:Belfast,N09000003,2.6,3.6,3.5,0.3,4.4
+ladu:Causeway Coast and Glens,N09000004,3.9,1.7,3.4,-2.2,2.5
+ladu:Derry City and Strabane,N09000005,2.6,1.5,5.3,1.5,6.2
+ladu:Fermanagh and Omagh,N09000006,3.3,1.7,5.1,0.4,5.4
+ladu:Lisburn and Castlereagh,N09000007,2.4,3.1,2.3,-1.1,1.5
+ladu:Mid and East Antrim,N09000008,2,2.8,2.1,-3.2,3.4
+ladu:Mid Ulster,N09000009,7,2.9,4.2,-1.2,3.9
+"ladu:Newry, Mourne and Down",N09000010,3.7,3.3,4,0.2,4.8
+ladu:Ards and North Down,N09000011,4,2.4,4.5,-0.5,3.4
+lacu:Darlington,E06000005,4.6,1.8,2.9,3.5,2.1
+lacu:County Durham,E06000047,2,2.7,2.8,0.1,5.3
+lacu:Hartlepool,E06000001,1.8,4.7,0.3,1.5,4.8
+lacu:Middlesbrough,E06000002,1.7,3.9,3,1.4,1.4
+lacu:Northumberland,E06000057,2.1,2.2,2.8,-0.7,4.1
+lacu:Redcar and Cleveland,E06000003,1.9,3.1,2.4,0.3,3.5
+lacu:Stockton-on-Tees,E06000004,2.2,1.4,5.1,0.9,3.2
+lacu:Gateshead,E08000037,2.1,4.5,3.7,-0.1,4.7
+lacu:Newcastle upon Tyne,E08000021,0.9,2.8,4.6,-1.7,7
+lacu:North Tyneside,E08000022,2.6,3.3,4.1,3.3,1.8
+lacu:South Tyneside,E08000023,2,0.8,1.5,1.5,4.9
+lacu:Sunderland,E08000024,2.5,1.3,2.8,-0.1,4.5
+lacu:Blackburn with Darwen,E06000008,4.8,4.7,5.1,3.7,0.5
+lacu:Blackpool,E06000009,3.5,2.2,3.7,0.9,0
+lacu:Cheshire East,E06000049,3.7,5.4,3.7,-1.3,0.7
+lacu:Cheshire West and Chester,E06000050,4.1,3.6,3,-1.1,-0.8
+lacu:Halton,E06000006,3.6,4.4,1.6,1.5,2.6
+lacu:Warrington,E06000007,2.6,4.6,3.9,-0.3,1.5
+lacu:Cumbria,E10000006,2.2,2.3,3.1,-0.6,2.6
+lacu:Bolton,E08000001,3.8,2.6,2.9,0.2,0.8
+lacu:Bury,E08000002,1.7,3.6,2.9,0.9,1.8
+lacu:Manchester,E08000003,5.8,4.8,3.5,2.2,5.4
+lacu:Oldham,E08000004,1.3,5.5,4.2,0.4,0.5
+lacu:Rochdale,E08000005,1.7,2,4.8,0.9,2.6
+lacu:Salford,E08000006,1.6,-0.9,4.6,0.8,1.7
+lacu:Stockport,E08000007,2,4.5,3.9,-0.7,2.9
+lacu:Tameside,E08000008,3.1,2.9,3.4,0.5,0.1
+lacu:Trafford,E08000009,1.9,7.7,3.3,-1.3,4.1
+lacu:Wigan,E08000010,4.3,3,3.4,0.9,2.5
+lacu:Lancashire,E10000017,2.5,2.7,3.6,0.2,2.5
+lacu:Knowsley,E08000011,3.4,1.6,6.4,1.4,1.2
+lacu:Liverpool,E08000012,1.8,2.5,2.3,1.8,6.9
+lacu:Sefton,E08000014,2.3,1.9,2.2,1.4,0.9
+lacu:St. Helens,E08000013,2.9,3.6,6,-0.1,1.1
+lacu:Wirral,E08000015,1.2,3.5,3.6,-1,4.3
+lacu:East Riding of Yorkshire,E06000011,3.3,4.6,2.9,-0.5,3.5
+"lacu:Kingston upon Hull, City of",E06000010,3.3,4.1,3.1,2.5,-0.6
+lacu:North East Lincolnshire,E06000012,3.7,2.2,4,1.7,3.9
+lacu:North Lincolnshire,E06000013,3.8,4.5,2.8,-0.2,4.4
+lacu:York,E06000014,2.8,4.8,3.2,-1.5,7.2
+lacu:North Yorkshire,E10000023,3.1,4.5,3,-1.9,4.1
+lacu:Barnsley,E08000016,3.4,3.8,5.1,1.6,3.9
+lacu:Doncaster,E08000017,3.1,3.3,0.4,1.1,4
+lacu:Rotherham,E08000018,3.5,1.4,3.4,0.5,2.7
+lacu:Sheffield,E08000019,1.8,3.9,2.3,-0.6,9.3
+lacu:Bradford,E08000032,2,2.1,3.4,1,1.6
+lacu:Calderdale,E08000033,2.1,2.4,2.8,-1.1,4.2
+lacu:Kirklees,E08000034,2.4,4.5,4,-0.3,4.8
+lacu:Leeds,E08000035,2.9,4.5,4,0,2.1
+lacu:Wakefield,E08000036,3.8,2.5,2.2,1.6,3.6
+lacu:Derby,E06000015,4.1,4,4,0.3,0.3
+lacu:Leicester,E06000016,2.6,2.1,3.8,4.3,0.7
+lacu:Nottingham,E06000018,0.8,2.5,4.2,1,8.8
+lacu:Rutland,E06000017,3.1,7.3,6,-4.2,1.1
+lacu:Derbyshire,E10000007,2.1,3.3,3.3,0.3,4.9
+lacu:Leicestershire,E10000018,4,2.3,4,-0.3,3.7
+lacu:Lincolnshire,E10000019,2.8,3.4,3.5,-0.2,3
+lacu:Nottinghamshire,E10000024,2.2,3.3,3.2,0,4.2
+lacu:North Northamptonshire,E06000061,2.4,1.9,2.9,1,0.5
+lacu:West Northamptonshire,E06000062,3.8,4.6,2.6,-0.7,-1.8
+"lacu:Herefordshire, County of",E06000019,0.3,3.7,4.1,-0.1,6.7
+lacu:Shropshire,E06000051,2,4,2.6,-1.5,4.1
+lacu:Stoke-on-Trent,E06000021,2.1,4.9,2.4,0,1.6
+lacu:Telford and Wrekin,E06000020,0.3,2.9,2.9,1.1,2.1
+lacu:Staffordshire,E10000028,2.3,3.9,3,-0.7,4.4
+lacu:Warwickshire,E10000031,0.1,1.8,1.9,-1.9,1.2
+lacu:Birmingham,E08000025,1.1,3.1,3.6,1.7,3.2
+lacu:Coventry,E08000026,1.2,2.3,1.4,-0.7,13.8
+lacu:Dudley,E08000027,0.3,2.8,2.7,0.6,2.3
+lacu:Sandwell,E08000028,1.3,2.8,3.5,1.4,-0.5
+lacu:Solihull,E08000029,1.6,3.6,2.5,-3.6,3.2
+lacu:Walsall,E08000030,2.9,3.5,1.5,0.5,4.2
+lacu:Wolverhampton,E08000031,1.7,3.1,3,1.6,2.9
+lacu:Worcestershire,E10000034,1.7,4.5,2.9,-0.5,2.2
+lacu:Bedford,E06000055,3.6,4,2.8,-1,-1.8
+lacu:Central Bedfordshire,E06000056,2.5,3.1,2.6,-2.5,4.3
+lacu:Luton,E06000032,6,2,3.7,2.7,-2.2
+lacu:Peterborough,E06000031,2,2.4,3.9,0.9,-2.6
+lacu:Southend-on-Sea,E06000033,3,3.8,3.3,-0.6,5.3
+lacu:Thurrock,E06000034,3.1,4.9,3.2,-0.1,3.8
+lacu:Cambridgeshire,E10000003,2.2,3.8,4.1,-2.1,0.7
+lacu:Essex,E10000012,3.3,4.7,3,-1.8,3.7
+lacu:Hertfordshire,E10000015,2.9,3.7,2.5,-2.9,4
+lacu:Norfolk,E10000020,2.7,3.5,4.2,-0.8,3.5
+lacu:Suffolk,E10000029,2,3.9,2.4,-0.9,3.4
+lacu:Camden,E09000007,2.1,5.6,2,-7,41.6
+lacu:City of London,E09000001,-0.9,-3.6,-11.4,-21.8,31.9
+lacu:Hackney,E09000012,1.2,5,4.5,0.8,13.4
+lacu:Hammersmith and Fulham,E09000013,1.7,2.6,1.3,-2,6
+lacu:Haringey,E09000014,4.3,4.8,4.5,-1.4,5.9
+lacu:Islington,E09000019,0.2,4.8,3.8,-4.7,18.3
+lacu:Kensington and Chelsea,E09000020,3.3,5.6,-1,-6.3,16.4
+lacu:Lambeth,E09000022,0.6,6.5,3.9,-0.3,4.4
+lacu:Lewisham,E09000023,3.6,4.6,5,0.7,6.4
+lacu:Newham,E09000025,4.7,6.4,5.4,1.2,6.2
+lacu:Southwark,E09000028,2.5,7,2.4,0,9.6
+lacu:Tower Hamlets,E09000030,1.1,3.7,3,-2.6,12.5
+lacu:Wandsworth,E09000032,1.2,5.2,2.9,-2.8,5.3
+lacu:Westminster,E09000033,0,0.8,-1,-8.7,37.3
+lacu:Barking and Dagenham,E09000002,2,6.1,4,3.5,-0.4
+lacu:Barnet,E09000003,1,5.2,1.8,-2.2,6.7
+lacu:Bexley,E09000004,1.1,3.9,3.6,-1,3.6
+lacu:Brent,E09000005,1.3,6.1,2.8,-1.2,-0.4
+lacu:Bromley,E09000006,0.3,5.5,2.5,-2,4.1
+lacu:Croydon,E09000008,1.9,6.4,3.5,0.2,1.9
+lacu:Ealing,E09000009,0.6,3.7,2.5,1.3,-4.9
+lacu:Enfield,E09000010,0.7,4.4,4.3,0.2,4.6
+lacu:Greenwich,E09000011,1.4,4.4,4.7,0.3,2.6
+lacu:Harrow,E09000015,2,4.9,0.8,-2.9,1.3
+lacu:Havering,E09000016,2.2,5,2,-1.2,2.7
+lacu:Hillingdon,E09000017,0.7,3.9,3.4,-1.2,4
+lacu:Hounslow,E09000018,1.2,5.6,4.6,-0.5,-3.3
+lacu:Kingston upon Thames,E09000021,-0.2,8,0.6,-1.1,9.4
+lacu:Merton,E09000024,0.6,5.6,4.9,-2.3,0.2
+lacu:Redbridge,E09000026,4.1,6.6,1.9,-0.6,3.1
+lacu:Richmond upon Thames,E09000027,0.8,7.5,2.8,-4.4,5.4
+lacu:Sutton,E09000029,0.1,5.9,2.7,-2.9,2.7
+lacu:Waltham Forest,E09000031,3.8,5.9,4.1,0.1,2
+lacu:Bracknell Forest,E06000036,2.3,1.9,4.7,0.9,2.4
+lacu:Brighton and Hove,E06000043,3.4,3.7,2.8,-2.4,9.4
+lacu:Isle of Wight,E06000046,2.4,4.3,4,-0.1,4.1
+lacu:Medway,E06000035,2.3,3.2,3.6,1,3.1
+lacu:Milton Keynes,E06000042,3.9,4.5,2.1,0.9,-3.1
+lacu:Portsmouth,E06000044,2.8,3.5,4.2,1.9,6.1
+lacu:Reading,E06000038,3.6,2.5,8.6,-0.4,-5.5
+lacu:Slough,E06000039,4,4,5.1,1.1,-3.2
+lacu:Southampton,E06000045,3.9,3.7,3.5,-0.3,3.8
+lacu:West Berkshire,E06000037,2.7,2.4,5.9,-2.5,1.4
+lacu:Windsor and Maidenhead,E06000040,2.4,1.8,5.5,-2,1.6
+lacu:Wokingham,E06000041,1.2,6.5,0.3,-2.6,1.7
+lacu:Buckinghamshire,E06000060,2.2,2.8,3.1,-3.4,3.3
+lacu:East Sussex,E10000011,1.5,2.2,2.6,-1.4,6.6
+lacu:Hampshire,E10000014,2.4,3.7,3.3,-2.1,2.1
+lacu:Kent,E10000016,2.1,3.4,2.9,-0.8,4.9
+lacu:Oxfordshire,E10000025,3.1,3.5,4.7,-2,-0.5
+lacu:Surrey,E10000030,2.4,4.2,2.8,-3.1,4.3
+lacu:West Sussex,E10000032,2.5,3.9,2.6,-2,1.1
+lacu:Bath and North East Somerset,E06000022,1.1,3.2,4.2,-5.6,6.4
+"lacu:Bristol, City of",E06000023,3.5,3.7,5.9,-1.2,2.9
+lacu:Cornwall,E06000052,3.7,2.1,4.2,0.6,4.9
+lacu:Isles of Scilly,E06000053,9.5,-1.4,6.7,3.6,-3
+lacu:North Somerset,E06000024,1.2,3,4.7,-1.2,2.8
+lacu:Plymouth,E06000026,4,3.1,4.4,-0.2,1.5
+"lacu:Bournemouth, Christchurch and Poole",E06000058,2.4,4.3,4.7,-2.5,3.3
+lacu:South Gloucestershire,E06000025,1.3,6.8,0.6,-2.3,2.7
+lacu:Swindon,E06000030,2,3.8,4.5,-0.7,-1.8
+lacu:Torbay,E06000027,2.4,2.8,3.1,1.5,2.6
+lacu:Wiltshire,E06000054,3.1,5.3,4.5,-2.5,1.7
+lacu:Devon,E10000008,2.2,4,3.5,-1.7,4.3
+lacu:Dorset,E06000059,1.8,4.2,3.8,-2,3.3
+lacu:Gloucestershire,E10000013,0.8,3.8,3.9,-2.3,3.1
+lacu:Somerset,E10000027,2.6,3.8,4.2,-1.2,3
+lacu:Isle of Anglesey,W06000001,2.4,2.8,1.3,0.5,5.2
+lacu:Gwynedd,W06000002,2.3,2.2,2.4,0.4,10.6
+lacu:Conwy,W06000003,3.1,4.3,3.1,-0.5,6.4
+lacu:Denbighshire,W06000004,2.8,3.9,-0.8,0.2,3.2
+lacu:Flintshire,W06000005,3,4.9,2,0.5,2.6
+lacu:Wrexham,W06000006,2.9,-0.3,1.1,0.6,2.3
+lacu:Powys,W06000023,5.6,3.9,3.7,0.3,4.1
+lacu:Ceredigion,W06000008,3.7,4.4,3.5,0.3,8
+lacu:Pembrokeshire,W06000009,2.1,3.6,2.1,-0.1,6
+lacu:Carmarthenshire,W06000010,1.5,3.5,2.3,0.4,4.1
+lacu:Swansea,W06000011,3.1,3.6,3.1,2.9,6.6
+lacu:Neath Port Talbot,W06000012,3.6,0,5.1,0.8,3.3
+lacu:Bridgend,W06000013,3.6,6.1,0.4,2.3,2.1
+lacu:Vale of Glamorgan,W06000014,4,6.1,3.1,0.2,6
+lacu:Cardiff,W06000015,4.1,4.4,1.7,2.2,6
+lacu:Rhondda Cynon Taff,W06000016,3.7,4,3.3,1.3,4.5
+lacu:Merthyr Tydfil,W06000024,3.3,3.1,0,1,4.8
+lacu:Caerphilly,W06000018,2.2,2.4,5.3,0.8,6.1
+lacu:Blaenau Gwent,W06000019,2.4,4.4,0.3,3.1,6
+lacu:Torfaen,W06000020,1.9,6.2,2,1.1,4.3
+lacu:Monmouthshire,W06000021,3.4,4.2,6,-2.4,5.1
+lacu:Newport,W06000022,1.7,4.9,0.6,1.6,0.5
+lacu:Aberdeen City,S12000033,0.5,0.9,3.2,-3,1.4
+lacu:Aberdeenshire,S12000034,0.4,4.3,2.6,-2,1.6
+lacu:Angus,S12000041,0.7,2.8,1.6,-2.2,2
+lacu:Argyll and Bute,S12000035,2.5,5.6,6.2,-0.3,2.3
+lacu:Clackmannanshire,S12000005,1.7,1.2,5.6,-2.9,2.1
+lacu:Dumfries and Galloway,S12000006,1.2,1.7,4.5,0.3,4
+lacu:Dundee City,S12000042,1.1,3.1,6.5,0.8,2
+lacu:East Ayrshire,S12000008,1.7,0.6,4.1,-0.2,2.3
+lacu:East Dunbartonshire,S12000045,3.3,3.1,-0.3,-2.2,2.7
+lacu:East Lothian,S12000010,1.9,2.1,6.5,-0.7,2.9
+lacu:East Renfrewshire,S12000011,0.6,2.4,-3.6,-1,3.1
+lacu:City of Edinburgh,S12000036,2.5,3.8,5.8,-2.1,3.4
+lacu:Na h-Eileanan Siar,S12000013,2.8,6.1,5.9,-1.2,1.7
+lacu:Falkirk,S12000014,4.1,4.4,2.7,-1.6,1.3
+lacu:Fife,S12000047,2.4,1.7,2.8,0.5,2.5
+lacu:Glasgow City,S12000049,1.5,1.6,3.9,0.8,3
+lacu:Highland,S12000017,1.9,2.9,4,-1,2.4
+lacu:Inverclyde,S12000018,2.3,3.5,4.9,-1.3,2.2
+lacu:Midlothian,S12000019,-0.4,3.6,0.1,1.7,2.3
+lacu:Moray,S12000020,3.2,4.1,4.6,-0.7,1
+lacu:North Ayrshire,S12000021,1.7,4.7,2.4,0.7,1.6
+lacu:North Lanarkshire,S12000050,1.5,2.4,2.6,0.1,1.8
+lacu:Orkney Islands,S12000023,1.7,2.7,3.6,0.1,3.9
+lacu:Perth and Kinross,S12000048,2.2,3.9,4.1,-0.9,1.8
+lacu:Renfrewshire,S12000038,2.1,3,4.7,0,1.4
+lacu:Scottish Borders,S12000026,1.8,1.2,5.1,0.2,3.4
+lacu:Shetland Islands,S12000027,-0.4,0.6,5.7,-0.8,1.9
+lacu:South Ayrshire,S12000028,0.9,2.1,1.6,-0.3,2.6
+lacu:South Lanarkshire,S12000029,3.1,3.7,3.3,0.9,2.1
+lacu:Stirling,S12000030,1.6,1.7,3.1,-2.1,2.4
+lacu:West Dunbartonshire,S12000039,5.3,5.4,3.7,-0.6,2
+lacu:West Lothian,S12000040,3,3.1,1.8,0.2,1.7
+lacu:Antrim and Newtownabbey,N09000001,3.1,2,4.4,-0.1,2.8
+"lacu:Armagh City, Banbridge and Craigavon",N09000002,2.4,2,3.6,-0.1,4.6
+lacu:Belfast,N09000003,2.6,3.6,3.5,0.3,4.4
+lacu:Causeway Coast and Glens,N09000004,3.9,1.7,3.4,-2.2,2.5
+lacu:Derry City and Strabane,N09000005,2.6,1.5,5.3,1.5,6.2
+lacu:Fermanagh and Omagh,N09000006,3.3,1.7,5.1,0.4,5.4
+lacu:Lisburn and Castlereagh,N09000007,2.4,3.1,2.3,-1.1,1.5
+lacu:Mid and East Antrim,N09000008,2,2.8,2.1,-3.2,3.4
+lacu:Mid Ulster,N09000009,7,2.9,4.2,-1.2,3.9
+"lacu:Newry, Mourne and Down",N09000010,3.7,3.3,4,0.2,4.8
+lacu:Ards and North Down,N09000011,4,2.4,4.5,-0.5,3.4
+itl121:North East (England),TLC,2.1,2.6,3.2,0.4,4.3
+itl121:North West (England),TLD,2.8,3.4,3.5,0.3,2.4
+itl121:Yorkshire and The Humber,TLE,2.9,3.7,3.1,0,3.9
+itl121:East Midlands (England),TLF,2.8,3.2,3.5,0.3,3.1
+itl121:West Midlands (England),TLG,1.3,3.3,2.8,-0.2,3.6
+itl121:East,TLH,2.9,3.9,3.1,-1.6,2.9
+itl121:London,TLI,1.6,5.2,2.7,-2,6.5
+itl121:South East (England),TLJ,2.5,3.6,3.3,-1.7,3
+itl121:South West (England),TLK,2.3,3.9,4.1,-1.6,3.1
+itl121:Wales,TLL,3.1,3.8,2.5,1,4.9
+itl121:Scotland,TLM,1.9,2.9,3.6,-0.6,2.4
+itl121:Northern Ireland,TLN,3.2,2.6,3.8,-0.5,4
+itl221:Tees Valley and Durham,TLC1,2.2,2.7,3,0.8,3.9
+"itl221:Northumberland, and Tyne and Wear",TLC2,2,2.5,3.3,0.1,4.6
+itl221:Cumbria,TLD1,2.2,2.3,3.1,-0.6,2.6
+itl221:Greater Manchester,TLD3,3,3.8,3.6,0.5,2.6
+itl221:Lancashire,TLD4,2.8,2.8,3.8,0.5,2.1
+itl221:Cheshire,TLD6,3.6,4.6,3.5,-1,0.4
+itl221:Merseyside,TLD7,2.2,2.8,3.3,0.8,3.6
+itl221:East Yorkshire and Northern Lincolnshire,TLE1,3.5,4.1,3.1,0.6,2.6
+itl221:North Yorkshire,TLE2,3,4.5,3.1,-1.8,4.9
+itl221:South Yorkshire,TLE3,2.7,3.3,2.5,0.4,5.9
+itl221:West Yorkshire,TLE4,2.7,3.5,3.5,0.3,2.9
+itl221:Derbyshire and Nottinghamshire,TLF1,2.2,3.3,3.5,0.3,4.7
+"itl221:Leicestershire, Rutland and Northamptonshire",TLF2,3.4,2.9,3.5,0.4,1.2
+itl221:Lincolnshire,TLF3,2.8,3.4,3.5,-0.2,3
+"itl221:Herefordshire, Worcestershire and Warwickshire",TLG1,0.8,3.2,2.6,-1.1,2.4
+itl221:Shropshire and Staffordshire,TLG2,2,4,2.8,-0.6,3.7
+itl221:West Midlands,TLG3,1.3,3,2.9,0.6,4
+itl221:East Anglia,TLH1,2.3,3.6,3.6,-1.1,2.2
+itl221:Bedfordshire and Hertfordshire,TLH2,3.2,3.5,2.6,-2.2,2.8
+itl221:Essex,TLH3,3.3,4.6,3.1,-1.5,3.9
+itl221:Inner London - West,TLI3,1.5,3.9,0.5,-6,20.3
+itl221:Inner London - East,TLI4,2.2,5.4,4,-0.8,9.1
+itl221:Outer London - East and North East,TLI5,2.2,5.2,3.5,0,2.8
+itl221:Outer London - South,TLI6,0.6,6.2,3,-1.5,3.3
+itl221:Outer London - West and North West,TLI7,1,5.3,2.6,-1.6,1.1
+"itl221:Berkshire, Buckinghamshire and Oxfordshire",TLJ1,2.8,3.3,4.1,-1.8,0.1
+"itl221:Surrey, East and West Sussex",TLJ2,2.4,3.7,2.7,-2.5,4.3
+itl221:Hampshire and Isle of Wight,TLJ3,2.6,3.7,3.4,-1.4,2.9
+itl221:Kent,TLJ4,2.1,3.4,3,-0.6,4.7
+"itl221:Gloucestershire, Wiltshire and Bath/Bristol area",TLK1,1.9,4.3,4.1,-2.2,2.5
+itl221:Dorset and Somerset,TLK2,2.3,4.1,4.2,-1.8,3.2
+itl221:Cornwall and Isles of Scilly,TLK3,3.7,2.1,4.2,0.6,4.9
+itl221:Devon,TLK4,2.6,3.7,3.7,-1.1,3.6
+itl221:West Wales and The Valleys,TLL1,2.8,3.5,2.6,1,5.3
+itl221:East Wales,TLL2,3.6,4.1,2.3,0.8,4.1
+itl221:North Eastern Scotland,TLM5,0.5,2.8,2.9,-2.5,1.6
+itl221:Highlands and Islands,TLM6,2,3.5,4.6,-0.8,2.1
+itl221:Eastern Scotland,TLM7,2.2,3.1,4.1,-0.9,2.5
+itl221:West Central Scotland,TLM8,1.9,2.5,2.7,0,2.5
+itl221:Southern Scotland,TLM9,2,2.7,3.5,0.4,2.6
+itl221:Northern Ireland,TLN0,3.2,2.6,3.8,-0.5,4
+itl321:Hartlepool and Stockton-on-Tees,TLC11,2.1,2.4,3.6,1.1,3.7
+itl321:South Teesside,TLC12,1.8,3.5,2.7,0.8,2.4
+itl321:Darlington,TLC13,4.6,1.8,2.9,3.5,2.1
+itl321:Durham,TLC14,2,2.7,2.8,0.1,5.3
+itl321:Northumberland,TLC21,2.1,2.2,2.8,-0.7,4.1
+itl321:Tyneside,TLC22,1.8,3,3.7,0.5,4.8
+itl321:Sunderland,TLC23,2.5,1.3,2.8,-0.1,4.5
+itl321:West Cumbria,TLD11,2,1.8,3.1,1,3.4
+itl321:East Cumbria,TLD12,2.3,2.7,3.1,-1.8,1.9
+itl321:Manchester,TLD33,5.8,4.8,3.5,2.2,5.4
+itl321:Greater Manchester South West,TLD34,1.7,3.7,3.8,-0.5,2.7
+itl321:Greater Manchester South East,TLD35,2.5,3.9,3.7,-0.3,1.7
+itl321:Greater Manchester North West,TLD36,4.1,2.9,3.1,0.6,1.7
+itl321:Greater Manchester North East,TLD37,1.6,3.7,3.9,0.7,1.6
+itl321:Blackburn with Darwen,TLD41,4.8,4.7,5.1,3.7,0.5
+itl321:Blackpool,TLD42,3.5,2.2,3.7,0.9,0
+itl321:Lancaster and Wyre,TLD44,3.9,2.6,2.9,0.1,6
+itl321:Mid Lancashire,TLD45,2.4,3,3.6,-0.3,2.5
+itl321:East Lancashire,TLD46,2,1.8,3.3,0.7,-0.4
+itl321:Chorley and West Lancashire,TLD47,2,3.2,4.8,0.5,2.7
+itl321:Warrington,TLD61,2.6,4.6,3.9,-0.3,1.5
+itl321:Cheshire East,TLD62,3.7,5.4,3.7,-1.3,0.7
+itl321:Cheshire West and Chester,TLD63,4.1,3.6,3,-1.1,-0.8
+itl321:East Merseyside,TLD71,3.3,3.2,4.8,0.8,1.5
+itl321:Liverpool,TLD72,1.8,2.5,2.3,1.8,6.9
+itl321:Sefton,TLD73,2.3,1.9,2.2,1.4,0.9
+itl321:Wirral,TLD74,1.2,3.5,3.6,-1,4.3
+"itl321:Kingston upon Hull, City of",TLE11,3.3,4.1,3.1,2.5,-0.6
+itl321:East Riding of Yorkshire,TLE12,3.3,4.6,2.9,-0.5,3.5
+itl321:North and North East Lincolnshire,TLE13,3.7,3.4,3.4,0.7,4.2
+itl321:York,TLE21,2.8,4.8,3.2,-1.5,7.2
+itl321:North Yorkshire CC,TLE22,3.1,4.5,3,-1.9,4.1
+"itl321:Barnsley, Doncaster and Rotherham",TLE31,3.3,2.8,2.7,1.1,3.5
+itl321:Sheffield,TLE32,1.8,3.9,2.3,-0.6,9.3
+itl321:Bradford,TLE41,2,2.1,3.4,1,1.6
+itl321:Leeds,TLE42,2.9,4.5,4,0,2.1
+itl321:Calderdale and Kirklees,TLE44,2.3,3.8,3.6,-0.6,4.6
+itl321:Wakefield,TLE45,3.8,2.5,2.2,1.6,3.6
+itl321:Derby,TLF11,4.1,4,4,0.3,0.3
+itl321:East Derbyshire,TLF12,3.7,4,4.2,2.4,4
+itl321:South and West Derbyshire,TLF13,1.3,2.9,2.8,-0.7,5.5
+itl321:Nottingham,TLF14,0.8,2.5,4.2,1,8.8
+itl321:North Nottinghamshire,TLF15,2.5,4.2,3.4,0.2,3.3
+itl321:South Nottinghamshire,TLF16,1.8,2.2,3,-0.1,5.3
+itl321:Leicester,TLF21,2.6,2.1,3.8,4.3,0.7
+itl321:Leicestershire CC and Rutland,TLF22,4,2.6,4.1,-0.5,3.5
+itl321:West Northamptonshire,TLF24,3.8,4.6,2.6,-0.7,-1.8
+itl321:North Northamptonshire,TLF25,2.4,1.9,2.9,1,0.5
+itl321:Lincolnshire CC,TLF30,2.8,3.4,3.5,-0.2,3
+"itl321:Herefordshire, County of",TLG11,0.3,3.7,4.1,-0.1,6.7
+itl321:Worcestershire CC,TLG12,1.7,4.5,2.9,-0.5,2.2
+itl321:Warwickshire CC,TLG13,0.1,1.8,1.9,-1.9,1.2
+itl321:Telford and Wrekin,TLG21,0.3,2.9,2.9,1.1,2.1
+itl321:Shropshire,TLG22,2,4,2.6,-1.5,4.1
+itl321:Stoke-on-Trent,TLG23,2.1,4.9,2.4,0,1.6
+itl321:Staffordshire CC,TLG24,2.3,3.9,3,-0.7,4.4
+itl321:Birmingham,TLG31,1.1,3.1,3.6,1.7,3.2
+itl321:Solihull,TLG32,1.6,3.6,2.5,-3.6,3.2
+itl321:Coventry,TLG33,1.2,2.3,1.4,-0.7,13.8
+itl321:Dudley,TLG36,0.3,2.8,2.7,0.6,2.3
+itl321:Sandwell,TLG37,1.3,2.8,3.5,1.4,-0.5
+itl321:Walsall,TLG38,2.9,3.5,1.5,0.5,4.2
+itl321:Wolverhampton,TLG39,1.7,3.1,3,1.6,2.9
+itl321:Peterborough,TLH11,2,2.4,3.9,0.9,-2.6
+itl321:Cambridgeshire CC,TLH12,2.2,3.8,4.1,-2.1,0.7
+itl321:Suffolk CC,TLH14,2,3.9,2.4,-0.9,3.4
+itl321:Norwich and East Norfolk,TLH15,1.5,3.3,4,-0.4,3.2
+itl321:North and West Norfolk,TLH16,3.9,4.4,5.2,-1.8,2.5
+itl321:Breckland and South Norfolk,TLH17,3,2.9,3.6,-0.5,4.7
+itl321:Luton,TLH21,6,2,3.7,2.7,-2.2
+itl321:Hertfordshire CC,TLH23,2.9,3.7,2.5,-2.9,4
+itl321:Bedford,TLH24,3.6,4,2.8,-1,-1.8
+itl321:Central Bedfordshire,TLH25,2.5,3.1,2.6,-2.5,4.3
+itl321:Southend-on-Sea,TLH31,3,3.8,3.3,-0.6,5.3
+itl321:Thurrock,TLH32,3.1,4.9,3.2,-0.1,3.8
+itl321:Essex Haven Gateway,TLH34,2.7,3.9,3.2,-1.3,4.7
+itl321:West Essex,TLH35,5,5.9,2.8,-2.6,2.3
+itl321:Heart of Essex,TLH36,3,4.3,2.9,-1.7,3.4
+itl321:Essex Thames Gateway,TLH37,2.9,4.8,3.1,-1.6,3.8
+itl321:Camden and City of London,TLI31,2.1,5.4,0.9,-8.3,40.9
+itl321:Westminster,TLI32,0,0.8,-1,-8.7,37.3
+itl321:Kensington & Chelsea and Hammersmith & Fulham,TLI33,2.5,4.3,-0.1,-4.5,10.7
+itl321:Wandsworth,TLI34,1.2,5.2,2.9,-2.8,5.3
+itl321:Hackney and Newham,TLI41,2.9,5.7,5,1,9.2
+itl321:Tower Hamlets,TLI42,1.1,3.7,3,-2.6,12.5
+itl321:Haringey and Islington,TLI43,2.3,4.9,4.2,-3,11.5
+itl321:Lewisham and Southwark,TLI44,3,5.9,3.6,0.3,8
+itl321:Lambeth,TLI45,0.6,6.5,3.9,-0.3,4.4
+itl321:Bexley and Greenwich,TLI51,1.3,4.2,4.2,-0.3,3.1
+itl321:Barking & Dagenham and Havering,TLI52,2.1,5.4,2.8,0.6,1.3
+itl321:Redbridge and Waltham Forest,TLI53,3.9,6.3,2.9,-0.3,2.6
+itl321:Enfield,TLI54,0.7,4.4,4.3,0.2,4.6
+itl321:Bromley,TLI61,0.3,5.5,2.5,-2,4.1
+itl321:Croydon,TLI62,1.9,6.4,3.5,0.2,1.9
+"itl321:Merton, Kingston upon Thames and Sutton",TLI63,0.2,6.4,2.9,-2.2,3.8
+itl321:Barnet,TLI71,1,5.2,1.8,-2.2,6.7
+itl321:Brent,TLI72,1.3,6.1,2.8,-1.2,-0.4
+itl321:Ealing,TLI73,0.6,3.7,2.5,1.3,-4.9
+itl321:Harrow and Hillingdon,TLI74,1.3,4.4,2.1,-2.1,2.9
+itl321:Hounslow and Richmond upon Thames,TLI75,1,6.6,3.7,-2.6,0.3
+itl321:Berkshire,TLJ11,2.6,3.3,4.9,-1.2,-0.3
+itl321:Milton Keynes,TLJ12,3.9,4.5,2.1,0.9,-3.1
+itl321:Buckinghamshire,TLJ13,2.2,2.8,3.1,-3.4,3.3
+itl321:Oxfordshire CC,TLJ14,3.1,3.5,4.7,-2,-0.5
+itl321:Brighton and Hove,TLJ21,3.4,3.7,2.8,-2.4,9.4
+itl321:East Sussex CC,TLJ22,1.5,2.2,2.6,-1.4,6.6
+itl321:West Surrey,TLJ25,2.6,4.6,2.8,-3.2,4.7
+itl321:East Surrey,TLJ26,2.1,3.4,2.9,-3,3.7
+itl321:West Sussex (South West),TLJ27,2.7,3.6,1.9,-1.3,2.1
+itl321:West Sussex (North East),TLJ28,2.2,4.1,3.3,-2.8,0.1
+itl321:Portsmouth,TLJ31,2.8,3.5,4.2,1.9,6.1
+itl321:Southampton,TLJ32,3.9,3.7,3.5,-0.3,3.8
+itl321:Isle of Wight,TLJ34,2.4,4.3,4,-0.1,4.1
+itl321:South Hampshire,TLJ35,1.2,3,3.4,-1.6,3.1
+itl321:Central Hampshire,TLJ36,2.6,3.9,3.3,-2.8,3.1
+itl321:North Hampshire,TLJ37,3.5,3.9,3,-1.4,-1
+itl321:Medway,TLJ41,2.3,3.2,3.6,1,3.1
+itl321:Kent Thames Gateway,TLJ43,2.8,3.3,3.4,-0.7,3.1
+itl321:East Kent,TLJ44,1.8,2.7,3,0.9,7.4
+itl321:Mid Kent,TLJ45,1.7,3,2.9,-0.6,2.6
+itl321:West Kent,TLJ46,2.1,4.3,2.3,-2.8,5.2
+"itl321:Bristol, City of",TLK11,3.5,3.7,5.9,-1.2,2.9
+"itl321:Bath and North East Somerset, North Somerset and South Gloucestershire",TLK12,1.2,4.5,2.9,-2.9,3.7
+itl321:Gloucestershire CC,TLK13,0.8,3.8,3.9,-2.3,3.1
+itl321:Swindon,TLK14,2,3.8,4.5,-0.7,-1.8
+itl321:Wiltshire,TLK15,3.1,5.3,4.5,-2.5,1.7
+itl321:Somerset CC,TLK23,2.6,3.8,4.2,-1.2,3
+"itl321:Bournemouth, Christchurch and Poole",TLK24,2.4,4.3,4.7,-2.5,3.3
+itl321:Dorset,TLK25,1.8,4.2,3.8,-2,3.3
+itl321:Cornwall and Isles of Scilly,TLK30,3.7,2.1,4.2,0.6,4.9
+itl321:Plymouth,TLK41,4,3.1,4.4,-0.2,1.5
+itl321:Torbay,TLK42,2.4,2.8,3.1,1.5,2.6
+itl321:Devon CC,TLK43,2.2,4,3.5,-1.7,4.3
+itl321:Isle of Anglesey,TLL11,2.4,2.8,1.3,0.5,5.2
+itl321:Gwynedd,TLL12,2.3,2.2,2.4,0.4,10.6
+itl321:Conwy and Denbighshire,TLL13,3,4.1,1.4,-0.2,5
+itl321:South West Wales,TLL14,2.1,3.7,2.4,0.2,5.4
+itl321:Central Valleys,TLL15,3.6,3.8,2.6,1.2,4.6
+itl321:Gwent Valleys,TLL16,2.2,3.8,3.5,1.3,5.6
+itl321:Bridgend and Neath Port Talbot,TLL17,3.6,3,2.7,1.5,2.7
+itl321:Swansea,TLL18,3.1,3.6,3.1,2.9,6.6
+itl321:Monmouthshire and Newport,TLL21,2.4,4.6,2.9,-0.2,2.2
+itl321:Cardiff and Vale of Glamorgan,TLL22,4.1,5,2.1,1.6,6
+itl321:Flintshire and Wrexham,TLL23,3,2.5,1.6,0.5,2.5
+itl321:Powys,TLL24,5.6,3.9,3.7,0.3,4.1
+itl321:Aberdeen City and Aberdeenshire,TLM50,0.5,2.8,2.9,-2.5,1.6
+"itl321:Caithness and Sutherland, and Ross and Cromarty",TLM61,1.4,0.8,3.6,-0.1,2.4
+"itl321:Inverness and Nairn, Moray, and Badenoch and Strathspey",TLM62,2.6,4.5,3.6,-1.5,2
+"itl321:Lochaber, Skye and Lochalsh, Arran and Cumbrae, and Argyll and Bute",TLM63,1.9,4.3,7.4,-0.3,1.8
+itl321:Na h-Eileanan Siar,TLM64,2.8,6.1,5.9,-1.2,1.7
+itl321:Orkney Islands,TLM65,1.7,2.7,3.6,0.1,3.9
+itl321:Shetland Islands,TLM66,-0.4,0.6,5.7,-0.8,1.9
+itl321:Angus and Dundee City,TLM71,0.8,2.9,4,-0.7,2.1
+itl321:Clackmannanshire and Fife,TLM72,2.3,1.6,3.2,0.1,2.5
+itl321:East Lothian and Midlothian,TLM73,0.9,2.8,3.7,0.3,2.6
+itl321:City of Edinburgh,TLM75,2.5,3.8,5.8,-2.1,3.4
+itl321:Falkirk,TLM76,4.1,4.4,2.7,-1.6,1.3
+"itl321:Perth and Kinross, and Stirling",TLM77,2,3,3.7,-1.4,2
+itl321:West Lothian,TLM78,3,3.1,1.8,0.2,1.7
+"itl321:East Dunbartonshire, West Dunbartonshire, and Helensburgh and Lomond",TLM81,4.1,4.1,1.6,-1.2,2.5
+itl321:Glasgow City,TLM82,1.5,1.6,3.9,0.8,3
+"itl321:Inverclyde, East Renfrewshire, and Renfrewshire",TLM83,1.7,2.9,2,-0.6,2.1
+itl321:North Lanarkshire,TLM84,1.5,2.4,2.6,0.1,1.8
+itl321:Scottish Borders,TLM91,1.8,1.2,5.1,0.2,3.4
+itl321:Dumfries and Galloway,TLM92,1.2,1.7,4.5,0.3,4
+itl321:East Ayrshire and North Ayrshire mainland,TLM93,1.7,2.8,3.3,0.2,1.9
+itl321:South Ayrshire,TLM94,0.9,2.1,1.6,-0.3,2.6
+itl321:South Lanarkshire,TLM95,3.1,3.7,3.3,0.9,2.1
+itl321:Belfast,TLN06,2.6,3.6,3.5,0.3,4.4
+"itl321:Armagh City, Banbridge and Craigavon",TLN07,2.4,2,3.6,-0.1,4.6
+"itl321:Newry, Mourne and Down",TLN08,3.7,3.3,4,0.2,4.8
+itl321:Ards and North Down,TLN09,4,2.4,4.5,-0.5,3.4
+itl321:Derry City and Strabane,TLN0A,2.6,1.5,5.3,1.5,6.2
+itl321:Mid Ulster,TLN0B,7,2.9,4.2,-1.2,3.9
+itl321:Causeway Coast and Glens,TLN0C,3.9,1.7,3.4,-2.2,2.5
+itl321:Antrim and Newtownabbey,TLN0D,3.1,2,4.4,-0.1,2.8
+itl321:Lisburn and Castlereagh,TLN0E,2.4,3.1,2.3,-1.1,1.5
+itl321:Mid and East Antrim,TLN0F,2,2.8,2.1,-3.2,3.4
+itl321:Fermanagh and Omagh,TLN0G,3.3,1.7,5.1,0.4,5.4
+lep:Black Country,E37000001,1.4,3,2.7,1,2.1
+lep:Cheshire and Warrington,E37000003,3.6,4.6,3.5,-1,0.4
+lep:Cornwall and Isles of Scilly,E37000005,3.7,2.1,4.2,0.6,4.9
+lep:Coventry and Warwickshire,E37000006,0.3,1.9,1.7,-1.7,5.9
+lep:Cumbria,E37000007,2.2,2.3,3.1,-0.6,2.6
+lep:Dorset,E37000009,2.1,4.3,4.3,-2.3,3.3
+lep:GFirst,E37000011,0.8,3.8,3.9,-2.3,3.1
+lep:Greater Birmingham and Solihull,E37000012,1.6,3.8,2.8,0.3,2.8
+lep:Greater Manchester,E37000015,3,3.8,3.6,0.5,2.6
+lep:Heart of the South West,E37000016,2.6,3.7,3.8,-1.1,3.4
+lep:Lancashire,E37000019,2.8,2.8,3.8,0.5,2.1
+lep:Leicester and Leicestershire,E37000021,3.7,2.3,4,1,2.6
+lep:Liverpool City Region,E37000022,2.2,2.8,3.3,0.8,3.6
+lep:North East,E37000025,2,2.5,3.2,0.1,4.8
+lep:Stoke-on-Trent and Staffordshire,E37000032,2.2,4.1,2.9,-0.5,3.8
+lep:Swindon and Wiltshire,E37000033,2.8,4.8,4.5,-2,0.6
+lep:Tees Valley,E37000034,2.4,2.7,3.1,1.4,2.9
+lep:Thames Valley Berkshire,E37000035,2.6,3.3,4.9,-1.2,-0.3
+lep:The Marches,E37000036,1.1,3.6,3.1,-0.5,4.2
+lep:West of England,E37000037,2.1,4.2,4,-2.2,3.4
+lep:Worcestershire,E37000038,1.7,4.5,2.9,-0.5,2.2
+lep:Buckinghamshire,E37000043,2.2,2.8,3.1,-3.4,3.3
+lep:Coast to Capital,E37000044,2.5,3.7,2.7,-2.4,3.3
+lep:D2N2,E37000045,2.2,3.3,3.5,0.3,4.7
+lep:Enterprise M3,E37000046,2.7,4.5,2.9,-2.8,2.7
+lep:Hertfordshire,E37000048,2.9,3.7,2.5,-2.9,4
+lep:The London Economic Action Partnership,E37000051,1.6,5.2,2.7,-2,6.5
+lep:New Anglia,E37000052,2.4,3.7,3.4,-0.9,3.4
+lep:OxLEP,E37000053,3.1,3.5,4.7,-2,-0.5
+lep:South Yorkshire,E37000054,2.7,3.3,2.5,0.4,5.9
+lep:Solent,E37000055,2.3,3.2,3.7,-0.8,4.2
+lep:South East,E37000056,2.5,3.7,3,-1.1,4.6
+lep:South East Midlands,E37000057,3.5,3.5,2.7,-0.1,-0.5
+lep:York and North Yorkshire,E37000058,3,4.5,3.1,-1.8,4.9
+lep:The Business Board,E37000059,2.1,3.5,4,-1.5,-0.1
+lep:Greater Lincolnshire,E37000060,3.1,3.6,3.6,-0.1,3.3
+lep:Hull and East Yorkshire,E37000061,3.3,4.5,3,0.6,1.8
+lep:Leeds City Region,E37000062,2.7,3.5,3.5,0.3,2.9
